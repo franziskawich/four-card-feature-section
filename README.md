@@ -48,7 +48,7 @@ Users should be able to:
 
 I tried to use the property `column-count` for medium sized devices but that caused problems with the box-shadow, which then got slightly cut off. So I used flexbox instead. I used Grid for larger devices and I was a bit surprised that creating grid areas was all that was needed to achieve the layout goal.
 
-I learned that you can change the `text-decoration-style` to curvy. I thought that was funny, although I did not use it. It looks like a teacher corrected a student`s exam. 😅
+I learned that you can change the `text-decoration-style` to curvy. I thought that was funny, although I did not use it. It looks like a teacher corrected a student's exam. 😅
 
 Oddly enough, I had a bit of trouble with the small coloured borders at the top of the four cards. At first I thought I could use a `box-shadow`, but then a simple `border-top` was the solution.
 
@@ -56,7 +56,7 @@ All in all, I was pleased that I didn't run into many problems with this challen
 
 ### Continued development
 
-I have used a little animation for people who did not change their setting for reduced motion when someone hovers over the cards and I am not so happy with the scaling. At least on my monitors the scaling of the text does not look smooth. I am not sure why though. 🤨
+I have used a little animation for people who didn't change their setting for reduced motion when someone hovers over the cards and I am not so happy with the scaling. At least on my monitors the scaling of the text does not look smooth. I am not sure why though. 🤨
 
 ### Useful resources
 
