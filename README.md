@@ -6,7 +6,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -23,7 +23,7 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 
-### Screenshot
+### Screenshots
 
 ![Desktop screenshot](./screenshot-desktop.png)
 ![Mobile screenshot](./screenshot-mobile.png)
@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/franziskawich/four-card-feature-section](https://github.com/franziskawich/four-card-feature-section)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://franziskawich.github.io/four-card-feature-section/](https://franziskawich.github.io/four-card-feature-section/)
 
 ## My process
 
