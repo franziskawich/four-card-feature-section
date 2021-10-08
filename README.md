@@ -52,7 +52,7 @@ I learned that you can change the `text-decoration-style` to curvy. I thought th
 
 Oddly enough, I had a bit of trouble with the small coloured borders at the top of the four cards. At first I thought I could use a `box-shadow`, but then a simple `border-top` was the solution.
 
-All in all, I was pleased that I didn't run into many problems with this challenge. I hope it means that doing these challenges and other courses is starting to pay off and I can finally improving my skills noticlebly.
+All in all, I was pleased that I didn't run into many problems with this challenge. I hope it means that doing these challenges and other courses is starting to pay off and I can finally improve my skills noticlebly.
 
 ### Continued development
 
